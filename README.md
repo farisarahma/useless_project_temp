@@ -1,7 +1,7 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [pro1] 🎯
 
 
 ## Basic Details
@@ -9,23 +9,23 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [farisa rahma k] - [k a h m unuity womens college]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[this is a uselell project.that uselessly make anger you by giving feel bad qouets with images that make fun on your emotions.]this is my project.what ridiculous problem actually iam solving ]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[ solving a very specific and unconventional problem.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[yaa, Keep it fun. solving a very specific and unconventional problem.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [html,css,js]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -47,13 +47,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![https://drive.google.com/file/d/1_fxPU7eC-E66g3mRPfzJqKeFsJ1ILDAf/view?usp=sharing](first page)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![https://drive.google.com/file/d/1xpDSZO2E4dlP_GAQfp5Y8cY3dYnkwKe1/view?usp=sharing](second)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![https://drive.google.com/file/d/1CIJmWfroVx4NNInXgA7bVNI0yVNbDxB6/view?usp=sharing](second one)
 *Add caption explaining what this shows*
 
 # Diagrams
