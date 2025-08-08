@@ -9,23 +9,23 @@
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
+- Team Lead: [farisa rahma k] - [K A H M unity womens college]
 - Member 2: [Name] - [College]
 - Member 3: [Name] - [College]
 
 ### Project Description
-[2-3 lines about what your project does]
+[this is a uselell project.that uselessly make anger you by giving feel bad qouets with images that make fun on your emotions. providing an outlet for people to experience and process negative emotions ]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[solving a very specific and unconventional problem.]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[yah,keep fun. providing an outlet for people to experience and process negative emotions ]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
+- [HTML,CSS,JAVASCRIPT]
 - [Frameworks used]
 - [Libraries used]
 - [Tools used]
@@ -47,13 +47,13 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+![https://drive.google.com/file/d/1_fxPU7eC-E66g3mRPfzJqKeFsJ1ILDAf/view?usp=sharing](this is the first web page)
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+![https://drive.google.com/file/d/1xpDSZO2E4dlP_GAQfp5Y8cY3dYnkwKe1/view?usp=sharing](images ang qouets)
 *Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
+![https://drive.google.com/file/d/1CIJmWfroVx4NNInXgA7bVNI0yVNbDxB6/view?usp=sharing3](images ang qouets)
 *Add caption explaining what this shows*
 
 # Diagrams
